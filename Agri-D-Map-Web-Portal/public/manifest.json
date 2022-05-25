@@ -1,0 +1,16 @@
+{
+  "short_name": "AgriVision",
+  "name": "AgriVision",
+  "icons": [
+    {
+      "src": "/splash_icon.png",
+       "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#536DFE",
+  "background_color": "#ffffff",
+  "prefer_related_applications": true
+}
